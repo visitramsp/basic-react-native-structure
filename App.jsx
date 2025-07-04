@@ -22,7 +22,7 @@ import {
   LearnMoreLinks,
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
-import Login from './src/screens/auth/login';
+import Login from './src/screens/auth/Login';
 import Index from './src/navigate';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 // import Index from './src/navigate';
